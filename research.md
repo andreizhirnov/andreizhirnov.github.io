@@ -2,6 +2,8 @@
 layout: page
 title: Published Research
 ---
+Shvetsova, Olga, Andrei Zhirnov, Frank Giannelli, Michael Catalano, and Olivia Catalano. 2021. "Governor's Party, Policies, and COVID-19 Outcomes: Further Evidence of an Effect." *American Journal of Preventive Medicine*.
+[Article](https://doi.org/10.1016/j.amepre.2021.09.003) | [Supplementary Information](https://github.com/andreizhirnov/governors-PPI-cases/blob/main/Governors-PPI-cases-supplementary-information.pdf) | [Replication Materials](https://github.com/andreizhirnov/governors-PPI-cases/)
 
 Shvetsova, Olga, Julie VanDusky-Allen, Andrei Zhirnov, Abdul Basit Adeel, Michael Catalano, Olivia Catalano, Frank Gianelli, Ezgi Muftuoglu, Dina Rosenberg, Mehmet Halit Sezgin, and Tianyi Zhao. 2021. "Federal Institutions and Strategic Policy Responses to COVID-19 Pandemic." *Frontiers in Political Science: Elections and Representation* 3:631363.  
 [Article](https://doi.org/10.3389/fpos.2021.631363) | [Replication Materials](/files/Shvetsova-et-al-2021.zip)
