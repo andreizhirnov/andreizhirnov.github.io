@@ -2,8 +2,16 @@
 layout: page
 title: Published Research
 ---
-Shvetsova, Olga, Andrei Zhirnov, Frank Giannelli, Michael Catalano, and Olivia Catalano. 2021. "Governor's Party, Policies, and COVID-19 Outcomes: Further Evidence of an Effect." *American Journal of Preventive Medicine*.\
-[Article](https://authors.elsevier.com/a/1d-7V2gOwG4eWB) | [DOI](https://doi.org/10.1016/j.amepre.2021.09.003) | [Supplementary Information](https://github.com/andreizhirnov/governors-PPI-cases/blob/main/Governors-PPI-cases-supplementary-information.pdf) | [Replication Materials](https://github.com/andreizhirnov/governors-PPI-cases/)
+Shvetsova, Olga, Andrei Zhirnov, Abdul Basit Adeel, Mert Can Bayar, Onsel Gurel Bayrali, Michael Catalano, Olivia Catalano, Hyoungrohk Chu, Frank Giannelli, Ezgi Muftuoglu, Dina Rosenberg, Didem Seyis, Bradley Skopyk, Julie VanDusky-Allen, and Tianyi Zhao. 2022. "Protective Policy Index (PPI): global dataset of origins and stringency of COVID 19 mitigation policies." *Scientific Data* 9: 319. \
+[Data descriptor](https://dx.doi.org/10.1038/s41597-022-01437-9) | [Dataset](https://github.com/COVID-policy-response-lab/PPI-data).
+
+Zhirnov, Andrei, Mert Moral, and Evgeny Sedashov. "Taking Distributions Seriously: On the Interpretation of the Estimates of Interactive Nonlinear Models." *Political Analysis*.\
+[Article](https://www.doi.org/10.1017/pan.2022.9) | [Supplementary Information (including Stata code)](https://github.com/andreizhirnov/data-conscious-marginal-effects) | [DAME package](https://github.com/andreizhirnov/DAME)
+	
+Shvetsova, Olga, Andrei Zhirnov, Frank Giannelli, Michael Catalano, and Olivia Catalano. 2022. "Governor's Party, Policies, and COVID-19 Outcomes: Further Evidence of an Effect." *American Journal of Preventive Medicine* 62(3): 433-437.\
+[Article](https://doi.org/10.1016/j.amepre.2021.09.003) | [Supplementary Information](https://github.com/andreizhirnov/governors-PPI-cases/blob/main/Governors-PPI-cases-supplementary-information.pdf) | [Replication Materials](https://github.com/andreizhirnov/governors-PPI-cases/) \
+A related letter: Shvetsova, Olga, Andrei Zhirnov, Frank Giannelli, Michael Catalano, and Olivia Catalano. 2022. "Can Correlation Between Governor's Party and COVID-19 Morbidity Be Explained by the Differences in COVID-19 Mitigation Policies in the States?" *American Journal of Preventive Medicine* 62(6): e381-e383.\
+[Letter](https://doi.org/10.1016/j.amepre.2022.01.003)
 
 Shvetsova, Olga, Julie VanDusky-Allen, Andrei Zhirnov, Abdul Basit Adeel, Michael Catalano, Olivia Catalano, Frank Gianelli, Ezgi Muftuoglu, Dina Rosenberg, Mehmet Halit Sezgin, and Tianyi Zhao. 2021. "Federal Institutions and Strategic Policy Responses to COVID-19 Pandemic." *Frontiers in Political Science: Elections and Representation* 3:631363.\
 [Article](https://doi.org/10.3389/fpos.2021.631363) | [Replication Materials](/files/Shvetsova-et-al-2021.zip)
