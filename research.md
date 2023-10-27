@@ -2,6 +2,9 @@
 layout: page
 title: Published Research
 ---
+Zhirnov, Andrei, Lorenza Antonucci, Jan Philipp Thomeczek, Laszlo Horvath, Carlo D'Ippoliti, Christian Alexander Mongeau Ospina, Andre Krouwel, and Norbert Kersting. "Precarity and populism: Explaining populist outlook and populist voting in Europe through subjective financial and work-related insecurity." Forthcoming in *European Sociological Review*. 
+[Article](https://doi.org/10.1093/esr/jcad052) | [Supplementary Information](https://github.com/andreizhirnov/precarity-populism//blob/main/precarity-populism-supplementary-information.pdf) | [Replication Materials](https://github.com/andreizhirnov/precarity-populism/) \
+
 Shvetsova, Olga, Andrei Zhirnov, Abdul Basit Adeel, Mert Can Bayar, Onsel Gurel Bayrali, Michael Catalano, Olivia Catalano, Hyoungrohk Chu, Frank Giannelli, Ezgi Muftuoglu, Dina Rosenberg, Didem Seyis, Bradley Skopyk, Julie VanDusky-Allen, and Tianyi Zhao. 2022. "Protective Policy Index (PPI): global dataset of origins and stringency of COVID 19 mitigation policies." *Scientific Data* 9: 319. \
 [Data descriptor](https://dx.doi.org/10.1038/s41597-022-01437-9) | [Dataset](https://github.com/COVID-policy-response-lab/PPI-data).
 
