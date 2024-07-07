@@ -2,6 +2,9 @@
 layout: page
 title: Published Research
 ---
+Zhirnov, Andrei, and Abdul Basit Adeel. "The informal economy and the reach of policy interventions: Evidence from the COVID-19 lockdown in India." Forthcoming in *Review of Development Economics.* \
+[Article](https://doi.org/10.1111/rode.13129) | [Replication Materials](https://github.com/andreizhirnov/informal-sector-and-compliance/)
+
 Zhirnov, Andrei, Lorenza Antonucci, Jan Philipp Thomeczek, Laszlo Horvath, Carlo D'Ippoliti, Christian Alexander Mongeau Ospina, Andre Krouwel, and Norbert Kersting. "Precarity and populism: Explaining populist outlook and populist voting in Europe through subjective financial and work-related insecurity." Forthcoming in *European Sociological Review*. \
 [Article](https://doi.org/10.1093/esr/jcad052) | [Supplementary Information](https://github.com/andreizhirnov/precarity-populism//blob/main/precarity-populism-supplementary-information.pdf) | [Replication Materials](https://github.com/andreizhirnov/precarity-populism/)
 
