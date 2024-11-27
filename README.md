@@ -1,3 +1,1 @@
-The webpage was built using "Hyde" -- "a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content.
-
-The author of Hyde is Mark Otto <https://github.com/mdo>
+The webpage was built using "Hyde" -- "a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. The author of Hyde is Mark Otto <https://github.com/mdo>
