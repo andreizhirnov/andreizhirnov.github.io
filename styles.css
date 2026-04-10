@@ -1,0 +1,48 @@
+/* =============================================
+   Hyde-inspired styles for Quarto website
+   ============================================= */
+
+/* Sidebar photo */
+.sidebar-about {
+  text-align: center;
+  padding: 1.5rem 0 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-photo {
+  max-width: 70%;
+  max-height: 70%;
+  border-radius: 4px;
+  display: block;
+  margin: 0 auto 0.75rem;
+}
+
+.sidebar-lead {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0;
+}
+
+/* Sidebar nav link spacing */
+.sidebar-nav .nav-link {
+  padding: 0.25rem 0;
+}
+
+/* Main content area */
+#quarto-content main {
+  padding-top: 2rem;
+}
+
+/* Publication list spacing */
+main p {
+  margin-bottom: 1.25rem;
+  line-height: 1.65;
+}
+
+/* Page title */
+h1.title {
+  margin-bottom: 1.5rem;
+  font-size: 1.75rem;
+}
