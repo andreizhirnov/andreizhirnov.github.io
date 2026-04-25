@@ -46,3 +46,41 @@ h1.title {
   margin-bottom: 1.5rem;
   font-size: 1.75rem;
 }
+
+/* Tile grid on the home page */
+.tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.tile {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  min-height: 120px;
+  padding: 1.25rem 1rem;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  background-color: #f8f9fa;
+  color: #212529;
+  text-decoration: none;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+
+.tile:hover,
+.tile:focus {
+  background-color: #e9ecef;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transform: translateY(-2px);
+  text-decoration: none;
+  color: #212529;
+}
+
+.tile h3 {
+  margin: 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+}

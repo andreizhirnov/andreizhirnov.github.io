@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://andreizhirnov.github.io/research.html</loc>
-    <lastmod>2026-04-10T18:47:24.738Z</lastmod>
+    <loc>https://andreizhirnov.github.io/public-health.html</loc>
+    <lastmod>2026-04-25T16:52:54.325Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andreizhirnov.github.io/other-research.html</loc>
+    <lastmod>2026-04-25T16:53:46.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andreizhirnov.github.io/electoral-behavior.html</loc>
+    <lastmod>2026-04-25T16:53:30.907Z</lastmod>
   </url>
   <url>
     <loc>https://andreizhirnov.github.io/index.html</loc>
-    <lastmod>2026-04-10T18:46:34.201Z</lastmod>
+    <lastmod>2026-04-25T17:10:28.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://andreizhirnov.github.io/populism.html</loc>
+    <lastmod>2026-04-25T17:00:21.656Z</lastmod>
   </url>
 </urlset>
